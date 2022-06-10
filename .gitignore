@@ -1,0 +1,10 @@
+errors
+results
+tmp
+.env
+/vendor
+/.idea
+/.vscode
+/.vagrant
+.phpunit.result.cache
+*.sh
