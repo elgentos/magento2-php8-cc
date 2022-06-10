@@ -1,4 +1,4 @@
-# PHP 8.x Compatibility Checker
+# Magento 2 PHP 8.x Compatibility Checker
 
 This little command line tool will output the current state of PHP 8.x Compatibility for a given project to quickly check whether you can upgrade a Magento installation to PHP 8.1 (which is supported from Magento 2.4.4).
 
